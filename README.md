@@ -19,6 +19,6 @@ I have yet to decide on how I want to go forward with implementing an auto updat
 - [x] Graph to show your MMR progress
 - [x] Event Log for matches
 - [x] Player information Page
+- [x] Auto Updater
 - [ ] Redo Design
-- [ ] Auto Updater
 - [ ] A way to add notes to each player, so you can keep yourself notified about certain playstyles and what not.
