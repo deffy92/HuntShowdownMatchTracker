@@ -7,11 +7,6 @@ Hunt Showdown: Match Tracker (HSMT) is a tool to keep a record of your match his
 - Download the .exe file that is flagged with "latest".
 - Run Exe and it will install the latest update.
 
-## Why doesnt the software autoupdate?
-I have yet to decide on how I want to go forward with implementing an auto updater. So for now I will notify everyone in our Discord to update to the latest version.
-
-
-
 ## Features
 - [x] Automatically Pull your games after every match
 - [x] Display match information in a way that makes sense.
