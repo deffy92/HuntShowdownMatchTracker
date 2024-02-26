@@ -1,5 +1,8 @@
 # Hunt Showdown: Match Tracker
 
+This software is deprcated. Crytek has disabled the option for us to pull information from your previous match. Their reasoning is not known, and it's not important. So sadly this program(and any similar program) does not work anymore. 
+
+
 Hunt Showdown: Match Tracker (HSMT) is a tool to keep a record of your match history. It will show you whoever was in your match and ways for you to see information about people you have played against. The software is still in pre-release so do expect bugs and weird behaviour every now and then. Please be sure to leave issues here on github if you experience any.
 
 ## How to Install/Update
